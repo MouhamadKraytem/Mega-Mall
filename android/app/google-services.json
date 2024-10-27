@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "484625031361",
+    "project_id": "megastore-1b77e",
+    "storage_bucket": "megastore-1b77e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484625031361:android:07797cd8c2b2aa983db440",
+        "android_client_info": {
+          "package_name": "storcom.megaStore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIBbuukSXIWHxvluDVowfZXpkNPo1pNoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
