@@ -5,7 +5,7 @@ class AppColors {
   static const Color blueOcean = Color(0xFF3669C9);
   static const Color orangeFresh = Color(0xFFFDA429);
   static const Color navyBlack = Color(0xFF13181F);
-  static const Color pureWhite = Color(0xFF9A9A9A);
+  static const Color pureWhite = Color(0xFFFFFFFF);
 
   // Secondary Colors
   static const Color earthGreen = Color(0xFF3A9B7A);
